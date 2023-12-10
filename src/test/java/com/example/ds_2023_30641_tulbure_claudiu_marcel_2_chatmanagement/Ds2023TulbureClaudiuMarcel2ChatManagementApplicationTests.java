@@ -1,4 +1,4 @@
-package com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement;
+package com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

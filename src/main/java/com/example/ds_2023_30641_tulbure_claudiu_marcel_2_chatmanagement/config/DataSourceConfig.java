@@ -1,4 +1,4 @@
-package com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.config;
+package com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.config;
 
 import com.zaxxer.hikari.HikariConfig;
 import com.zaxxer.hikari.HikariDataSource;

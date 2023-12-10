@@ -1,6 +1,6 @@
-package com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.config;
+package com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.config;
 
-import com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.service.JwtService;
+import com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.service.JwtService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;

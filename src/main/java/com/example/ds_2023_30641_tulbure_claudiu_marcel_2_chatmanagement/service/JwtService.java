@@ -1,4 +1,4 @@
-package com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.service;
+package com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.service;
 
 import io.jsonwebtoken.Claims;
 import io.jsonwebtoken.Jwts;

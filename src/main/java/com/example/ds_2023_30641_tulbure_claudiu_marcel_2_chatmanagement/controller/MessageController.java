@@ -1,8 +1,7 @@
-package com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.controller;
+package com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.controller;
 
-import com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.model.dto.MessageDTO;
-import com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.model.entity.Message;
-import com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.service.MessageService;
+import com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.model.dto.MessageDTO;
+import com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.service.MessageService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;

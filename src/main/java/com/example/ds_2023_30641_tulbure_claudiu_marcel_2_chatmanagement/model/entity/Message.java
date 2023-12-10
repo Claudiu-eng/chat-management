@@ -1,4 +1,4 @@
-package com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.model.entity;
+package com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.model.entity;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
@@ -7,7 +7,6 @@ import jakarta.persistence.Table;
 import lombok.*;
 import org.hibernate.annotations.GenericGenerator;
 
-import java.util.Date;
 import java.util.UUID;
 
 @Getter

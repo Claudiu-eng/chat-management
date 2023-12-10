@@ -1,7 +1,7 @@
-package com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.model.mapper;
+package com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.model.mapper;
 
-import com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.model.dto.MessageDTO;
-import com.example.ds_2023_tulbure_claudiu_marcel_2_chatmanagement.model.entity.Message;
+import com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.model.dto.MessageDTO;
+import com.example.ds_2023_30641_tulbure_claudiu_marcel_2_chatmanagement.model.entity.Message;
 import org.springframework.stereotype.Component;
 
 import java.util.List;
